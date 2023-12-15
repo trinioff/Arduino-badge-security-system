@@ -1,7 +1,7 @@
 # Arduino Badge reader 
 
-Simple Badge Reader  🔐
-PRoject realised with Dario, Victor and Matthias
+Simple Badge Reader  🔐                                                                                                                                                                                          
+Project realised with Dario, Victor and Matthias
 
 
 work for Esp32 Microcontroller ✅                                      
