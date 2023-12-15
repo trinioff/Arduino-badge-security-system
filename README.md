@@ -40,7 +40,7 @@ To remove a badge connect to the api on a web browser by this link : [http://bad
   -*function created by us*
                                         
 
-[image](https://github.com/trinioff/Arduino-badge-security-system/blob/main/badge%20reader.png)
+![image](https://github.com/trinioff/Arduino-badge-security-system/blob/main/badge%20reader.png)
 
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100% Finish ❤️                          
