@@ -23,7 +23,7 @@ To remove a badge connect to the api on a web browser by this link : [http://bad
   -*basic arduino function*                                            
                                             
 + **Serial.available**                  
-    • Get a character from microcontroller.
+    • Get a character from microcontroller.                                                                                                                                                                                                                    
     • This function returns the number of memories used.                                                                                                                                                                                                       
   -*basic arduino function*                     
                                             
