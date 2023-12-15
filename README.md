@@ -21,7 +21,7 @@ To remove a badge connect to the api on a web browser by this link : [http://bad
 + **Serial.println**                      
     •Print a string on the console.                                           
                                             
-+ **Serial.available** -                
++ **Serial.available**                  
     • Get a character from microcontroller.
     • This function returns the number of memories used.                     
                                             
