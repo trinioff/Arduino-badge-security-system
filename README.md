@@ -5,7 +5,7 @@ Project realised with Dario, Victor and Matthias
 
 
 work for Esp32 Microcontroller ✅                                      
-using a RFID RC22  ✅
+using a RFID RC522  ✅
 
 We are starting learning about arduino so the code is not the best one it's just basics functions.
 
